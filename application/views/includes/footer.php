@@ -1,8 +1,5 @@
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript" charset="utf-8"></script> 
- <script type="text/javascript" charset="utf-8">
-  $('input').click(function(){
-   $(this).select(); 
-  });
- </script>
-</body>
-</html>
+<div class="pull-right hidden-xs">
+    <b>Version</b> 2.4.0
+</div>
+<strong>Copyright &copy; 2014-2016 <a href="https://adminlte.io">Almsaeed Studio</a>.</strong> All rights
+reserved.
